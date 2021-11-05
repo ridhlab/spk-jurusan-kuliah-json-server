@@ -1,0 +1,337 @@
+{
+  "nilaiUserIpa": [
+    {
+      "id": 1,
+      "nama": "Muhammad Ridwan",
+      "jurusan": "ipa",
+      "nilai": {
+        "rapot": {
+          "mtk": 91.6,
+          "bindo": 85,
+          "bing": 89,
+          "fisika": 89.6,
+          "kimia": 84.8,
+          "biologi": 86.6
+        },
+        "kecerdasan": {
+          "linguistik": 1.6,
+          "logisMatematis": 3,
+          "visualSpasial": 2.4,
+          "kinestetik": 1.2,
+          "musikal": 2.2,
+          "interpersonal": 0.9,
+          "intrapersonal": 3.1,
+          "naturalis": 1.5
+        }
+      }
+    },
+    {
+      "id": 2,
+      "nama": "Muhammad Rizal",
+      "jurusan": "ipa",
+      "nilai": {
+        "rapot": {
+          "mtk": 85.6,
+          "bindo": 88.2,
+          "bing": 91,
+          "fisika": 86.2,
+          "kimia": 84.6,
+          "biologi": 85.8
+        },
+        "kecerdasan": {
+          "linguistik": 1.9,
+          "logisMatematis": 2,
+          "visualSpasial": 2.1,
+          "kinestetik": 1.1,
+          "musikal": 1.3,
+          "interpersonal": 2.5,
+          "intrapersonal": 1.7,
+          "naturalis": 1.5
+        }
+      }
+    },
+    {
+      "id": 3,
+      "nama": "Maya",
+      "jurusan": "ipa",
+      "nilai": {
+        "rapot": {
+          "mtk": 92.4,
+          "bindo": 87.4,
+          "bing": 88,
+          "fisika": 89.8,
+          "kimia": 87.4,
+          "biologi": 87.8
+        },
+        "kecerdasan": {
+          "linguistik": 1.7,
+          "logisMatematis": 2.8,
+          "visualSpasial": 1.9,
+          "kinestetik": 1.1,
+          "musikal": 2.6,
+          "interpersonal": 1.7,
+          "intrapersonal": 2.2,
+          "naturalis": 2.3
+        }
+      }
+    },
+    {
+      "id": 4,
+      "nama": "Annisa Fadhila",
+      "jurusan": "ipa",
+      "nilai": {
+        "rapot": {
+          "mtk": 89.2,
+          "bindo": 90.4,
+          "bing": 86.9,
+          "fisika": 89.8,
+          "kimia": 92.1,
+          "biologi": 90.1
+        },
+        "kecerdasan": {
+          "linguistik": 1.9,
+          "logisMatematis": 2.1,
+          "visualSpasial": 1.8,
+          "kinestetik": 1.6,
+          "musikal": 1.9,
+          "interpersonal": 2.5,
+          "intrapersonal": 1.8,
+          "naturalis": 2.3
+        }
+      }
+    },
+    {
+      "id": 5,
+      "nama": "Ahmad Yusuf",
+      "jurusan": "ipa",
+      "nilai": {
+        "rapot": {
+          "mtk": 86.6,
+          "bindo": 90.1,
+          "bing": 89.9,
+          "fisika": 87.2,
+          "kimia": 86.5,
+          "biologi": 91.1
+        },
+        "kecerdasan": {
+          "linguistik": 2.1,
+          "logisMatematis": 1.7,
+          "visualSpasial": 1.8,
+          "kinestetik": 1.3,
+          "musikal": 2,
+          "interpersonal": 2.4,
+          "intrapersonal": 1.5,
+          "naturalis": 2.6
+        }
+      }
+    },
+    {
+      "id": 6,
+      "nama": "Muhammad Alvan",
+      "jurusan": "ipa",
+      "nilai": {
+        "rapot": {
+          "mtk": 87.6,
+          "bindo": 91.1,
+          "bing": 88.4,
+          "fisika": 92.6,
+          "kimia": 89.5,
+          "biologi": 87.2
+        },
+        "kecerdasan": {
+          "linguistik": 1.8,
+          "logisMatematis": 2,
+          "visualSpasial": 1.5,
+          "kinestetik": 2.1,
+          "musikal": 2.7,
+          "interpersonal": 2.2,
+          "intrapersonal": 1.8,
+          "naturalis": 2.2
+        }
+      }
+    },
+    {
+      "id": 7,
+      "nama": "Amelia ",
+      "jurusan": "ipa",
+      "nilai": {
+        "rapot": {
+          "mtk": 87,
+          "bindo": 89.2,
+          "bing": 87.2,
+          "fisika": 86.2,
+          "kimia": 87.4,
+          "biologi": 89.6
+        },
+        "kecerdasan": {
+          "linguistik": 2,
+          "logisMatematis": 1.8,
+          "visualSpasial": 1.4,
+          "kinestetik": 2.3,
+          "musikal": 1.9,
+          "interpersonal": 2.9,
+          "intrapersonal": 2.4,
+          "naturalis": 2.6
+        }
+      }
+    }
+  ],
+  "nilaiUserIps": [
+    {
+      "id": 1,
+      "nama": "Ahmad Mustofa",
+      "jurusan": "ips",
+      "nilai": {
+        "rapot": {
+          "mtk": 88.4,
+          "bindo": 88,
+          "bing": 89.2,
+          "sejarah": 87,
+          "ekonomi": 86.2,
+          "geografi": 86.4,
+          "sosiologi": 87.4
+        },
+        "kecerdasan": {
+          "linguistik": 2.7,
+          "logisMatematis": 1,
+          "visualSpasial": 1.8,
+          "kinestetik": 2.4,
+          "musikal": 1.7,
+          "interpersonal": 2.2,
+          "intrapersonal": 1.4,
+          "naturalis": 2.2
+        }
+      }
+    },
+    {
+      "id": 2,
+      "nama": "Vera Putri",
+      "jurusan": "ips",
+      "nilai": {
+        "rapot": {
+          "mtk": 90.1,
+          "bindo": 92.2,
+          "bing": 88.2,
+          "sejarah": 88.2,
+          "ekonomi": 87.7,
+          "geografi": 86.8,
+          "sosiologi": 89.8
+        },
+        "kecerdasan": {
+          "linguistik": 2.7,
+          "logisMatematis": 1,
+          "visualSpasial": 1.9,
+          "kinestetik": 2.1,
+          "musikal": 1.8,
+          "interpersonal": 2.4,
+          "intrapersonal": 1.6,
+          "naturalis": 2
+        }
+      }
+    },
+    {
+      "id": 3,
+      "nama": "Nurlaili",
+      "jurusan": "ips",
+      "nilai": {
+        "rapot": {
+          "mtk": 87.1,
+          "bindo": 90.1,
+          "bing": 87.5,
+          "sejarah": 86.2,
+          "ekonomi": 88.2,
+          "geografi": 87.5,
+          "sosiologi": 90.2
+        },
+        "kecerdasan": {
+          "linguistik": 1.9,
+          "logisMatematis": 1.2,
+          "visualSpasial": 1.8,
+          "kinestetik": 2,
+          "musikal": 1.7,
+          "interpersonal": 2.4,
+          "intrapersonal": 2.6,
+          "naturalis": 1.9
+        }
+      }
+    },
+    {
+      "id": 4,
+      "nama": "Nurhasanah",
+      "jurusan": "ips",
+      "nilai": {
+        "rapot": {
+          "mtk": 88.1,
+          "bindo": 87,
+          "bing": 86.5,
+          "sejarah": 87.5,
+          "ekonomi": 88.7,
+          "geografi": 89.1,
+          "sosiologi": 88.2
+        },
+        "kecerdasan": {
+          "linguistik": 2,
+          "logisMatematis": 1.1,
+          "visualSpasial": 1.9,
+          "kinestetik": 2.1,
+          "musikal": 1.9,
+          "interpersonal": 2,
+          "intrapersonal": 1.6,
+          "naturalis": 2.6
+        }
+      }
+    },
+    {
+      "id": 5,
+      "nama": "Muhammad Yudha",
+      "jurusan": "ips",
+      "nilai": {
+        "rapot": {
+          "mtk": 86.1,
+          "bindo": 89.5,
+          "bing": 88.2,
+          "sejarah": 90.1,
+          "ekonomi": 88.2,
+          "geografi": 89.5,
+          "sosiologi": 87.1
+        },
+        "kecerdasan": {
+          "linguistik": 1,
+          "logisMatematis": 1.2,
+          "visualSpasial": 1.5,
+          "kinestetik": 2.2,
+          "musikal": 1.7,
+          "interpersonal": 2.1,
+          "intrapersonal": 1.9,
+          "naturalis": 2.2
+        }
+      }
+    },
+    {
+      "id": 6,
+      "nama": "Muhammad Sofyatullah",
+      "jurusan": "ips",
+      "nilai": {
+        "rapot": {
+          "mtk": 85.4,
+          "bindo": 86.2,
+          "bing": 90.4,
+          "sejarah": 89.4,
+          "ekonomi": 87.3,
+          "geografi": 91.6,
+          "sosiologi": 88.7
+        },
+        "kecerdasan": {
+          "linguistik": 1.5,
+          "logisMatematis": 1.4,
+          "visualSpasial": 1.9,
+          "kinestetik": 1.4,
+          "musikal": 2.1,
+          "interpersonal": 1.9,
+          "intrapersonal": 2,
+          "naturalis": 2.5
+        }
+      }
+    }
+  ]
+}
